@@ -3,7 +3,6 @@ using System.Threading;
 
 namespace Snake
 {
-    // Av Jonathan Österberg + jobbat tillsammans med Elvira Urberg
     class Program
     {
         /// <summary>
